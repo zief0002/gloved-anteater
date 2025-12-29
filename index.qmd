@@ -1,0 +1,56 @@
+---
+title: "Repository for EPSY 8252"
+subtitle: "Spring 2026"
+date: today
+---
+
+
+
+
+## Course Materials
+
+<nav aria-label="materials">
+- [Syllabus](https://docs.google.com/document/d/1xLjxAkAA_Y_lvgEMyjrkJwTh-3q_cNiDsYMkJED8j9o/edit?usp=sharing)
+- [Textbook: Advanced Modeling and Reproducibility for Educational Scientists](https://zief0002.github.io/adv-modeling/)
+- [CSV Data Files (ZIP File)](https://github.com/zief0002/gloved-anteater/raw/refs/heads/main/files/data.zip)
+- [Data Dictionaries](https://docs.google.com/document/d/1_sZGxntN3tTfCmdrgqU7R7GDINiwIkODuP0kBcPsJgI/edit?usp=sharing)
+- [R Scripts (ZIP File)](https://github.com/zief0002/gloved-anteater/raw/refs/heads/main/files/scripts.zip)
+</nav>
+
+<br />
+
+
+## Assignments
+
+<nav aria-label="assignments">
+
+<!-- - Assignment 1: Introduction to Quarto <span style="color: #ff2d21; font-size:13px;">[*Closed*]</span> -->
+<!-- - Assignment 2: Polynomial Effects <span style="color: #ff2d21; font-size:13px;">[*Closed*]</span> -->
+<!-- - Assignment 3: Evidence and Model Selection <span style="color: #ff2d21; font-size:13px;">[*Closed*]</span> -->
+<!-- - Assignment 4: Logarithmic Transformations <span style="color: #ff2d21; font-size:13px;">[*Closed*]</span> -->
+<!-- - Assignment 5: Logistic Regression <span style="color: #ff2d21; font-size:13px;">[*Closed*]</span> -->
+<!-- - Assignment 6: Mixed-Effects Regression Models <span style="color: #ff2d21; font-size:13px;">[*Closed*]</span> -->
+- [Assignment 1: Introduction to Quarto](https://docs.google.com/document/d/1tHwg40g0kPUZHdAxlB6fTCbCKiJ5eqRwQvtFDh54OAo/edit?usp=sharing)
+- [Assignment 2: Polynomial Effects](https://docs.google.com/document/d/140b1wCD4K5ThavP-DeQRKiJnP2814wRzVZbUOlXn2G0/edit?usp=sharing)
+- [Assignment 3: Evidence and Model Selection](https://docs.google.com/document/d/1Svr8DRV7-tNdSI1h7BUVKDfUxW-9FVy9VH5gEliU3vw/edit?usp=sharing)
+- [Assignment 4: Logarithmic Transformations](https://docs.google.com/document/d/1tbM9aZfKMQRdSfaVx4HiigqmXP0kR8_jubJEdylsQIM/edit?usp=sharing)
+- [Assignment 5: Logistic Regression](https://docs.google.com/document/d/1rmA0MTNckpq7qPhAb05eEi7cHZFsOCAEGRJ9OShd89Y/edit?usp=sharing)
+- [Assignment 6: Mixed-Effects Regression Models](https://docs.google.com/document/d/1WhsNPYdfJ9kkjPvBRMmAXocyLKVqF3mpyVKe5ONBZ1o/edit?usp=sharing)
+</nav>
+
+<br />
+
+
+
+
+## Worksheets
+
+<nav aria-label="worksheets">
+- [Regression Review Worksheet](worksheets/worksheet-01-regression-review.html)
+  <!-- + [Answer Key](https://raw.githubusercontent.com/zief0002/gloved-anteater/refs/heads/main/files/01-01-using-rstudio.R) -->
+- [Hello World: Quarto Worksheet](worksheets/worksheet-03-hello-world-quarto.html)
+- [More Quarto](worksheets/worksheet-04-more-quarto.html)
+<!-- - [Polynomial Effects Worksheet](worksheets/worksheet-02-poly-effects.html) -->
+<!-- - [Discussion: Astrological Signs and Hospitalization](https://docs.google.com/document/d/1uzosfdCtdSU-a9zPL_cUaR2KsGwZEXw-9DMArvvyEaA/edit?usp=sharing) -->
+<!-- - [Interaction Effects](https://docs.google.com/document/d/1qyU111rVC1NL2H3i1AIJt6tv0ofstffBntzVWZEEZZs/edit?usp=sharing) -->
+</nav>
