@@ -47,7 +47,7 @@ date: today
 
 <nav aria-label="worksheets">
 - [Regression Review Worksheet](worksheets/worksheet-01-regression-review.html)
-  <!-- + [Answer Key](https://raw.githubusercontent.com/zief0002/gloved-anteater/refs/heads/main/files/01-01-using-rstudio.R) -->
+  + [Answer Key](worksheets/worksheet-01-regression-review-ak.html)
 - [Hello World: Quarto Worksheet](worksheets/worksheet-03-hello-world-quarto.html)
 - [More Quarto](worksheets/worksheet-04-more-quarto.html)
 <!-- - [Polynomial Effects Worksheet](worksheets/worksheet-02-poly-effects.html) -->
